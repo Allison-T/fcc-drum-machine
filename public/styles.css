@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  margin: 10% auto;
+  font-family: "Arvo", cursive;
+  text-align: center;
+}
+
+.title {
+  text-align: center;
+  font-family: "Arvo", cursive;
+  font-size: 5rem;
+  color: #da0463;
+  text-shadow: 3px 0 #dbedf3;
+}
+
+.display {
+  margin: 2px;
+  text-align: center;
+  font-family: "Arvo", cursive;
+}
+
+.keyboard {
+  margin: 2% 30%;
+  width: 40%;
+}
+
+.column {
+  margin: 5% 1%;
+  padding: 0;
+  border: 0;
+}
+
+.drum-pad {
+  outline: none;
+  border: 10px solid #404b69;
+  font-size: 4rem;
+  font-family: "Arvo", cursive;
+  line-height: 1.6;
+  font-weight: 900;
+  color: #da0463;
+  text-shadow: 3px 0 #dbedf3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 110px;
+  height: 110px;
+  text-align: center;
+  margin: 1%;
+  background-color: white;
+}
