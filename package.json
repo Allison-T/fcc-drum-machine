@@ -5,14 +5,13 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "react": "^18.3.1", // Or latest stable React 18 version
-    "react-dom": "^18.3.1", // Or latest stable React 18 version
-    "react-scripts": "^5.0.1" // Or latest stable react-scripts version
+    "react": "^18.3.1", 
+    "react-dom": "^18.3.1", 
+    "react-scripts": "^5.0.1" 
   },
   "devDependencies": {
-    "@babel/runtime": "^7.x.x", // Latest stable version
-    "typescript": "^5.x.x"     // Latest stable version
-  },
+    "@babel/runtime": "^7.x.x", 
+    "typescript": "^5.x.x"     
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
